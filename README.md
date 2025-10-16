@@ -1,4 +1,3 @@
-[README.mb.md](https://github.com/user-attachments/files/22953215/README.mb.md)
 <!-- Banner (substitua o caminho pelo seu arquivo) -->
 <p align="center">
   <img src="assets/banner-totem-ia.png" alt="Totem IA – Educacional" width="100%">
