@@ -1,1 +1,0 @@
-"# Totem IA - Projeto Educacional" 
