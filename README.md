@@ -117,7 +117,10 @@ Projetado para Secretarias de Educação, redes públicas/privadas e empresas de
 👥 Equipe
 
 Integrantes: Leno Siqueira
-Integrantes: 
+Integrantes: Mateus Lima
+Integrantes: Maria Mendes
+Integrantes: Paulo Benfica
+Integrantes: Fred Villagra
 
 Orientador: André Godoi
 Parceria: FIAP + FlexMidia
