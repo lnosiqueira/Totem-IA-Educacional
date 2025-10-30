@@ -26,7 +26,7 @@
 - [Estratégia de Coleta de Dados](#-estratégia-de-coleta-de-dados)
 - [Plano Inicial de Desenvolvimento e Responsabilidades](#-plano-inicial-de-desenvolvimento-e-responsabilidades)
 - [Instalação & Execução (protótipo)](#-instalação-execução-protótipo)
-- [Estrutura do Repositório]([#estrutura-do-reposit%C3%B3rio)
+- [Estrutura do Repositório]([#estrutura-do-repositório)
 - [Parcerias e Aplicações](#-parcerias-e-aplicações)
 - [Equipe](#-equipe)
 - [Repositório & Evidência de Versionamento](#-repositório-evidência-de-versionamento)
