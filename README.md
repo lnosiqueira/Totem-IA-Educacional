@@ -21,15 +21,15 @@
 
 ## 📌 Sumário
 - [Descrição](#-descrição)
-- [Definição das Tecnologias](https://github.com/lnosiqueira/Totem-IA-Educacional/edit/main/README.md#2-%EF%B8%8F-defini%C3%A7%C3%A3o-das-tecnologias)
-- [Arquitetura Técnica](https://github.com/lnosiqueira/Totem-IA-Educacional/edit/main/README.md#3-%EF%B8%8F-arquitetura-da-solu%C3%A7%C3%A3o)
-- [Estratégia de Coleta de Dados](https://github.com/lnosiqueira/Totem-IA-Educacional/edit/main/README.md#4--estrat%C3%A9gia-de-coleta-de-dados)
-- [Plano Inicial de Desenvolvimento e Responsabilidades](https://github.com/lnosiqueira/Totem-IA-Educacional/edit/main/README.md#5-%EF%B8%8F-plano-inicial-de-desenvolvimento-e-responsabilidades)
-- [Instalação & Execução (protótipo)](#-instalação--execução-protótipo)
-- [Estrutura do Repositório](https://github.com/lnosiqueira/Totem-IA-Educacional/edit/main/README.md#estrutura-do-reposit%C3%B3rio)
+- [Definição das Tecnologias](#-definição-das-tecnologias)
+- [Arquitetura Técnica](#-arquitetura-técnica)
+- [Estratégia de Coleta de Dados](#-estratégia-de-coleta-de-dados)
+- [Plano Inicial de Desenvolvimento e Responsabilidades](#-plano-inicial-de-desenvolvimento-e-responsabilidades)
+- [Instalação & Execução (protótipo)](#-instalação-execução-protótipo)
+- [Estrutura do Repositório](#-estrutura-do-repositório)
 - [Parcerias e Aplicações](#-parcerias-e-aplicações)
 - [Equipe](#-equipe)
-- [Repositório & Evidência de Versionamento](#-repositório--evidência-de-versionamento)
+- [Repositório & Evidência de Versionamento](#-repositório-evidência-de-versionamento)
 - [Licença](#-licença)
 
 ---
