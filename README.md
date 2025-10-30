@@ -42,7 +42,7 @@ Promove uma experiência interativa de aprendizado via **totem físico com IA**,
 
 ---
 
-## 1. Justificativa do Problema e Solução Proposta
+## 1. 🚩 Justificativa do Problema e Solução Proposta
 
 ### 1.1. O Problema
 O ambiente educacional, especialmente no Brasil, enfrenta desafios crônicos:
